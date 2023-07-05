@@ -1,1 +1,1 @@
-https://github.com/AzaGak/fish
+https://AzaGak.github.io/fish/
